@@ -1,9 +1,3 @@
-Perfect 👏 That’s a great addition — it makes your project look more professional and shows that you worked with **real SQL data** instead of dummy data.
-
-Here’s the **updated GitHub README** and repository details (fully ready to copy-paste).
-I’ve rewritten everything to highlight **Power BI + SQL integration**.
-
----
 
 ## 💳 Credit Card Transaction Dashboard – Power BI + SQL
 
@@ -11,8 +5,6 @@ I’ve rewritten everything to highlight **Power BI + SQL integration**.
 
 This project presents an **interactive Power BI dashboard** built using **real transactional data from an SQL database**.
 The dashboard delivers a complete overview of **credit card performance**, including **revenue trends, customer demographics, transaction behavior,** and **spending patterns**.
-
----
 
 ### 🧩 Key Insights
 
@@ -23,8 +15,7 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 * **Top States:** California, Texas, New York
 * **High-Spending Segments:** Graduate professionals and white-collar employees
 
----
-
+  
 ### ⚙️ Data Source & Workflow
 
 1. **Data Source:** SQL Server Database
@@ -33,7 +24,6 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 4. **Modeling:** Relationships, measures, and KPIs created using **DAX formulas**
 5. **Visualization:** Interactive dashboards in Power BI
 
----
 
 ### 📈 Dashboard Features
 
@@ -45,7 +35,6 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 6. **Customer Acquisition Cost and Interest Earnings**
 7. **Dynamic Filtering and Drill-Through Options**
 
----
 
 ### 🛠 Tools Used
 
@@ -54,7 +43,6 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 * **DAX** – for measures and calculated columns
 * **Power Query** – for ETL process (Extract, Transform, Load)
 
----
 
 ### 📁 Files in This Repository
 
@@ -65,7 +53,6 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 | `SQL_Query.txt`              | SQL query used for data extraction |
 | `README.md`                  | Project documentation              |
 
----
 
 ### 🚀 How to View the Dashboard
 
@@ -74,7 +61,6 @@ The dashboard delivers a complete overview of **credit card performance**, inclu
 3. (Optional) Update SQL connection string to connect your own data source
 4. Explore visuals interactively
 
----
 
 ### 🧠 About the Project
 
@@ -84,28 +70,9 @@ This project demonstrates end-to-end data analysis using **SQL + Power BI**:
 * Data modeling and KPI creation
 * Visualization and storytelling through Power BI
 
----
 
 ### 🌐 Author
 
 **Jawad Zangi**
 💼 *Data Analyst | Power BI & SQL Developer*
-📧 [Add your email or LinkedIn profile here]
-
----
-
-### 💡 Repository Description (for GitHub top summary)
-
-> Interactive Power BI dashboard built on real SQL data to analyze credit card transactions, customer spending, and revenue insights.
-
----
-
-### ✅ Suggested Commit Message
-
-```
-Added Power BI + SQL credit card transaction dashboard and project documentation
-```
-
----
-
-Would you like me to add a **second dashboard section** too (the restaurant one) in the same README — or keep it separate in another repository?
+📧 jawadkhan.projects@gmail.com
